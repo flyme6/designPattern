@@ -1,0 +1,9 @@
+
+.idea
+*.iml
+out
+.gitignore
+.idea/
+out/
+pattern.iml
+
