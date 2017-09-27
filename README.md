@@ -1,11 +1,13 @@
+设计模式
+=========
 
+##简介
 
-#简介
 使用java语言通俗易懂描述软件中的设计模式！
 
 持续更新中...
 
-#目录
+## 目录
 
 [软件工程中的GoF设计模式](http://www.wistbean.com/blog/2017/09/24/design-pattern/)
 
@@ -43,13 +45,13 @@
 - 访问者模式 Visitor Pattern
 
 
-#about me
+## about me
 
 [wistbean](http://www.wistbean.com "wistbean")
 
 
 
-#License
+## License
 
 Copyright 2017 wistbean
 
