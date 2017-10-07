@@ -5,6 +5,26 @@
 
 使用java语言通俗易懂描述软件中的设计模式！
 
+
+- com.wistbean.* （*代表每个模式的包）
+- com.wistbean.*.code （某模式下的代码具体实现）
+- com.wistbean.*.example （某模式下文章中涉及到的例子代码）
+
+	─src
+	  └─com
+	      └─wistbean
+	          ├─factory
+	          │  ├─code		
+	          │  └─example	    
+	          │          
+	          │          
+	          └─singleton
+	              ├─code
+	              └─example
+
+                 ....
+
+
 持续更新中...
 
 ## 目录
@@ -14,7 +34,7 @@
 其中创建型有5个：
 
 - [单例模式 Singleton Pattern](http://www.wistbean.com/blog/2017/09/26/singleton-pattern/)
-- 工厂方法模式 Factory Method Pattern
+- [工厂方法模式 Factory Method Pattern](http://www.wistbean.com/blog/2017/10/07/factory-method-pattern/)
 - 抽象工厂模式 Abstract Factory Pattern
 - 原型模式 Prototype Pattern
 - 建造者模式 Builder Pattern
