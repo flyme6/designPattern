@@ -4,26 +4,26 @@
 ## 简介
 
 使用java语言通俗易懂描述软件中的设计模式！
-每个模式对应一个包文件中有相应的代码例子和代码实现！
 
 
 - com.wistbean.* （*代表每个模式的包）
 - com.wistbean.*.code （某模式下的代码具体实现）
 - com.wistbean.*.example （某模式下文章中涉及到的例子代码）
 
-	─src
-	  └─com
-	      └─wistbean
-	          ├─factory
-	          │  ├─code		
-	          │  └─example	    
-	          │          
-	          │          
-	          └─singleton
-	              ├─code
-	              └─example
+		─src
+		  └─com
+		      └─wistbean
+		          ├─factory
+		          │  ├─code		
+		          │  └─example	    
+		          │          
+		          │          
+		          └─singleton
+		              ├─code
+		              └─example
+ 				     ...
 
-                 ....
+                 
 
 
 持续更新中...
