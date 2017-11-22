@@ -36,7 +36,7 @@
 
 - [单例模式 Singleton Pattern](http://www.wistbean.com/blog/2017/09/26/singleton-pattern/)
 - [工厂方法模式 Factory Method Pattern](http://www.wistbean.com/blog/2017/10/07/factory-method-pattern/)
-- 抽象工厂模式 Abstract Factory Pattern
+- [抽象工厂模式 Abstract Factory Pattern](http://www.wistbean.com/blog/2017/11/21/abstract-factory-pattern/)
 - 原型模式 Prototype Pattern
 - 建造者模式 Builder Pattern
 
